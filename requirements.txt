@@ -1,4 +1,0 @@
-pandas>=2.0
-pyomo>=6.7
-highspy>=1.7
-matplotlib>=3.7
