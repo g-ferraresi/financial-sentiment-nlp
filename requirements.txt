@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn>=1.3
+nltk>=3.8
+ftfy
+gensim>=4.3
+tensorflow>=2.15
+matplotlib
+seaborn
+jupyter
